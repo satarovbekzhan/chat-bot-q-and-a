@@ -1,17 +1,16 @@
 {
     "Question": {
-        "q": "string",
-        "a": "string"
+        "q": "Q",
+        "a": "A"
     },
-    "Post": {
-      "title": "string",
-      "views": "int",
-      "published": "boolean",
-      "createdAt": "date",
-      "comments": "Comment[]"
-    },
-    "Comment": {
-      "body": "string",
-      "post": "Post"
-    }
-  }
+    "Q": [
+        "ffffff",
+        "tttttt",
+        "bbbbbb"
+    ],
+    "A": [
+        "jjjjjj",
+        "rrrrrr",
+        "eeeeee"
+    ]
+}
