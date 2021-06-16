@@ -1,4 +1,8 @@
 {
+    "q": {
+        "question": "string",
+        "answer": "string"
+    },
     "Post": {
       "title": "string",
       "views": "int",
