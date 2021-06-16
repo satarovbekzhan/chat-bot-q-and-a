@@ -1,7 +1,7 @@
 {
-    "q": {
-        "question": "string",
-        "answer": "string"
+    "Question": {
+        "q": "string",
+        "a": "string"
     },
     "Post": {
       "title": "string",
