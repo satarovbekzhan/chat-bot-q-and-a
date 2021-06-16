@@ -1,31 +1,5 @@
 {
-    "data": {
-        "questions": [
-            {
-                "id": 0,
-                "q": "a",
-                "a": "b"
-            },
-            {
-                "id": 1,
-                "q": "hi",
-                "a": "hallo"
-            },
-            {
-                "id": 2,
-                "q": "bye",
-                "a": "tschuss"
-            },
-            {
-                "id": 3,
-                "q": "hey",
-                "a": "ou"
-            },
-            {
-                "id": 4,
-                "q": "one",
-                "a": "two"
-            }
-        ]
-    }
+    "Question": {
+        "q": "string",
+        "a": "string"
 }
